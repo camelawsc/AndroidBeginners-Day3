@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Day3</string>
+    <string name="button_text">Activity A Button</string>
+    <string name="default_text">Your selected fruit is</string>
+    <string name="spinner_text">[Select]</string>
+    <string-array name="fruits">
+        <item>--Select--</item>
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Blueberry</item>
+        <item>Orange</item>
+        <item>Pear</item>
+        <item>Strawberry</item>
+        <item>Watermelon</item>
+    </string-array>
+</resources>
